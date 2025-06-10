@@ -1,2 +1,4 @@
  all cmd per exercice
-1 : su 
+0 : su
+1 : whoami 
+2 : groups
